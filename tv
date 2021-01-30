@@ -1,51 +1,23 @@
 #EXTM3U
-#EXTINF:-1 ,beIN Sport 10 (1080P) H265
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/58859
-#EXTINF:-1 ,beIN Sport 09 (1080P) H265
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/58860
-#EXTINF:-1 ,beIN Sport 08 (1080P) H265
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/58861
-#EXTINF:-1 ,beIN Sport 07(1080P) H265
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/58862
-#EXTINF:-1 ,beIN Sport 05 (1080P) H265
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/58864
-#EXTINF:-1 ,beIN Sport 04 (1080P) H265
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/58865
-#EXTINF:-1 ,beIN Sport 03 (1080P) H265
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/58866
-#EXTINF:-1 ,beIN Sport 02 (1080p) H265
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/58867
-#EXTINF:-1 ,beIN Sport 01 (1080p) H265
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/58868
-#EXTINF:-1 ,SP3: beIN Sport 12 720p
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/51792
-#EXTINF:-1 ,SP3: beIN Sport 11 720p
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/51793
-#EXTINF:-1 ,SP3: beIN Sport 10 720p
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/51794
-#EXTINF:-1 ,SP3: beIN Sport 09 720p
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/51795
-#EXTINF:-1 ,SP3: beIN Sport 08 720p
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/51796
-#EXTINF:-1 ,SP3: beIN Sport 07 720p
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/51797
-#EXTINF:-1 ,SP3: beIN Sport 05 720p
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/51799
-#EXTINF:-1 ,SP3: beIN Sport 04 720p
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/51800
-#EXTINF:-1 ,SP3: beIN Sport 03 720p
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/51801
-#EXTINF:-1 ,SP3: beIN Sport 02 720p
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/51802
-#EXTINF:-1 ,SP3: beIN Sport 01 720p
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/51803
-#EXTINF:-1 ,SP3: beIN Sport 01 [T 480]
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/63007
-#EXTINF:-1 ,SP3: beIN Sport 02 [T 480]
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/63006
-#EXTINF:-1 ,SP3: beIN Sport 03 [T 480]
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/63005
-#EXTINF:-1 ,SP3: beIN Sport 04 [T 480]
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/63004
-#EXTINF:-1 ,SP3: beIN Sport 05 [T 480]
-http://dragon2020.com:8080/admin_919932/YOKdgsyH/63003
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports NBA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_us.png" group-title="Bein Sports",beIN Sports NBA HD
+http://sky-siptv.com:8000/mahmoudxksemtini7/an963000/7196
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 01 [SD]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_us.png" group-title="Bein Sports",beIN Sport 01 [SD]
+http://sky-siptv.com:8000/mahmoudxksemtini7/an963000/7220
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 02 [SD]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_us.png" group-title="Bein Sports",beIN Sport 02 [SD]
+http://sky-siptv.com:8000/mahmoudxksemtini7/an963000/7221
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 03 [SD]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_03_hd.png" group-title="Bein Sports",beIN Sport 03 [SD]
+http://sky-siptv.com:8000/mahmoudxksemtini7/an963000/7222
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 04 [SD]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_04_hd.png" group-title="Bein Sports",beIN Sport 04 [SD]
+http://sky-siptv.com:8000/mahmoudxksemtini7/an963000/7223
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 05 [SD]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_05_hd.png" group-title="Bein Sports",beIN Sport 05 [SD]
+http://sky-siptv.com:8000/mahmoudxksemtini7/an963000/7224
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 06 [SD]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_06_hd.png" group-title="Bein Sports",beIN Sport 06 [SD]
+http://sky-siptv.com:8000/mahmoudxksemtini7/an963000/7225
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 07 [SD]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_07_hd.png" group-title="Bein Sports",beIN Sport 07 [SD]
+http://sky-siptv.com:8000/mahmoudxksemtini7/an963000/7226
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 08 [SD]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_08_hd.png" group-title="Bein Sports",beIN Sport 08 [SD]
+http://sky-siptv.com:8000/mahmoudxksemtini7/an963000/7227
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 09 [SD]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_09_hd.png" group-title="Bein Sports",beIN Sport 09 [SD]
+http://sky-siptv.com:8000/mahmoudxksemtini7/an963000/7228
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 10 [SD]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_10_hd.png" group-title="Bein Sports",beIN Sport 10 [SD]
+http://sky-siptv.com:8000/mahmoudxksemtini7/an963000/7229
