@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 ,AR: beIN SPORTS LOW1
-http://195.154.165.98:25461/maxlive2025/hggfdfsrj/110
-#EXTINF:-1 ,AR: beIN SPORTS LOW2
-http://195.154.165.98:25461/maxlive2025/hggfdfsrj/111
-#EXTINF:-1 ,AR: beIN SPORTS LOW3
-http://195.154.165.98:25461/maxlive2025/hggfdfsrj/112
-#EXTINF:-1 ,AR: beIN SPORTS LOW4
-http://195.154.165.98:25461/maxlive2025/hggfdfsrj/113
-#EXTINF:-1 ,AR: beIN SPORTS LOW5
-http://195.154.165.98:25461/maxlive2025/hggfdfsrj/114
-#EXTINF:-1 ,AR: beIN SPORTS LOW6
-http://195.154.165.98:25461/maxlive2025/hggfdfsrj/115
-#EXTINF:-1 ,AR: beIN SPORTS LOW7
-http://195.154.165.98:25461/maxlive2025/hggfdfsrj/116
-#EXTINF:-1 ,AR: beIN SPORTS LOW8
-http://195.154.165.98:25461/maxlive2025/hggfdfsrj/117
-#EXTINF:-1 ,AR: beIN SPORTS LOW9
-http://195.154.165.98:25461/maxlive2025/hggfdfsrj/118
-#EXTINF:-1 ,AR: beIN SPORTS LOW10
-http://195.154.165.98:25461/maxlive2025/hggfdfsrj/119
+#EXTINF:-1,Bein Sport 1
+http://135.181.175.161:25461/maxsport2020/magico/15
+#EXTINF:-1,Bein Sport 2
+http://135.181.175.161:25461/maxsport2020/magico/16
+#EXTINF:-1,Bein Sport 3
+http://135.181.175.161:25461/maxsport2020/magico/17
+#EXTINF:-1,Bein Sport 4
+http://135.181.175.161:25461/maxsport2020/magico/18
+#EXTINF:-1,Bein Sport 5
+http://135.181.175.161:25461/maxsport2020/magico/19
+#EXTINF:-1,Bein Sport 6
+http://135.181.175.161:25461/maxsport2020/magico/20
+#EXTINF:-1,Bein Sport 7
+http://135.181.175.161:25461/maxsport2020/magico/21
+#EXTINF:-1,Bein low 1
+http://135.181.175.161:25461/maxsport2020/magico/34
+#EXTINF:-1,Bein low2
+http://135.181.175.161:25461/maxsport2020/magico/35
+#EXTINF:-1,Bein low3
+http://135.181.175.161:25461/maxsport2020/magico/36
